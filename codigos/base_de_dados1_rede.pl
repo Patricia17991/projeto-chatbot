@@ -56,7 +56,7 @@ como referência para a localização dos destinatários da mensagem.').
 definida_por('cabo coaxial',
 	'foi o primeiro cabo a ser utilizado em redes de computadores. Atualmente, o cabo coaxial
 não é mais empregado na implementação de redes, pois não é muito flexível e muitos problemas já 
-foramdetectados na utilização desse tipo de meio.').
+foram detectados na utilização desse tipo de meio.').
 
 definida_por('cabo de par trançado',
 	'é um cabo com pares de fios trançado e o mais usado em redes. Além da flexibilidade,
