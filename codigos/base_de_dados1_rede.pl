@@ -81,7 +81,7 @@ definida_por('topologia parcialmente ligada',
 que são interligados.').
 
 definida_por('topologia em barramento',
-	'caracteriza por ter um meio de comunicação comum, ou seja, todos os computadores são conectados a esse
+	'caracterizada por ter um meio de comunicação comum, ou seja, todos os computadores são conectados a esse
 meio para estabelecer comunicação entre si.').
 
 definida_por('topologia ponto a ponto',
