@@ -7,8 +7,8 @@ ou link de dados, guiados por um conjunto de regras (protocolo de rede),
 para compartilhar entre si informação,	serviços e, recursos físicos e lógicos.').
 
 definida_por('classificação de redes',
-	'são classificadas em três categorias, WAN( World Área NetWork), LAN (Local Área NetWork)
-e MAN (Metropolitan Área NetWork).').
+	'são classificadas em três categorias, WAN( World Area NetWork), LAN (Local Area NetWork)
+e MAN (Metropolitan rea NetWork).').
 
 definida_por('roteador',
 	'é um dispositivo de interconexão que encaminha pacotes entre redes processando as 
