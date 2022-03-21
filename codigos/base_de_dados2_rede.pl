@@ -73,7 +73,7 @@ um programa cliente estabelece uma conexão TCP com um programa servidor HTTP.')
 
 definida_por('camada de rede',
 	'fornecer os serviços de transferência de dados fim a fim sobre uma rede, 
-independentemente das características das subredes físicas. Está mais relacionada à topologia de
+independentemente das características das sub-redes físicas. Está mais relacionada à topologia de
 rede e tem como uma de suas principais funções resolver problemas de roteamento em rede.').
 
 definida_por('IPv4',
