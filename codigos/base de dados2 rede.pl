@@ -1,4 +1,4 @@
-% Base de Conhecimento em Rede de Computadores para Prolog.(Base de dados dois)
+% Base de dados dois
 
 definida_por('ethernet',
 	'é um conjunto de protocolos e técnicas para tornar viável a comunicação entre os 
