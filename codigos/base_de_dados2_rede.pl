@@ -2,7 +2,7 @@
 
 definida_por('ethernet',
 	'é um conjunto de protocolos e técnicas para tornar viável a comunicação entre os 
-computadores. É usada na grande maioria nas redes de computadores LAN instaladas pelo mundo.').
+computadores. É usada na grande maioria nas redes de computadores LAN instaladas pelo mundo.'). 
 
 definida_por('endereçamento ethernet e seus serviços',
 	'em um nível de abstração mais alto, pode-se dizer que a tecnologia ethernet oferece a 
