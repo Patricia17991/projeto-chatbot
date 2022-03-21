@@ -1,4 +1,4 @@
-% Base de Conhecimento em Rede de Computadores para Prolog.
+% Base de Conhecimento em Rede de Computadores para Prolog.(Base de dados um)
 
 definida_por('rede de computadores',
 	'é um conjunto de dois ou mais dispositivos eletrônicos de computação, ou módulos
