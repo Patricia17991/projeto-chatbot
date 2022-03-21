@@ -33,7 +33,7 @@ cabeamento e permitir a conexão de redes de tipos diferentes.').
 	 
 definida_por('rede LAN',
 	'são redes locais de empresas, escritórios, laboratórios de informática ou até domésticas.
-Em síntese, é restrita a uma pequena área.').
+Em síntese, é restrita a uma pequena área.'). 
 	 
 definida_por('rede MAN',
 	'são redes que têm alcance metropolitano. Ou seja, uma rede que interconecta recursos 
