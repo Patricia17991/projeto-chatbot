@@ -28,20 +28,13 @@ definida_por('IGRP',
 	'este protocolo é proprietário da Cisco. Foi projetado com o objetivo de trazer melhorias para o protocolo RIP. Conforme a rede foi crescendo, o protocolo RIP passou a ficar limitado, de modo que o protocolo IGRP solucionou alguns problemas relacionados a rotas em redes grandes e heterogêneas.').
 	 
 definida_por('EIGRP',
-	'outro protocolo desenvolvido pela Cisco. É considerado um protocolo híbrido combinando
-as melhores características dos protocolos para a definição de rotas com base em vetores de
-distância e em estado de ligação.').
+	'outro protocolo desenvolvido pela Cisco. É considerado um protocolo híbrido combinando as melhores características dos protocolos para a definição de rotas com base em vetores de distância e em estado de ligação.').
 	 
 definida_por('SMTP',
-	'é um dos serviços prestados pela camada de aplicação. Os componentes básicos envolvidos
-na troca de mensagens através do SMTP são: Agente usuário e Caixa postal. O SMTP utiliza os 
-serviços da camada de transporte através do protocolo TCP para transferir mensagens.
-Apresenta uma estrutura organizada para a transmissão dos dados.').
+	'é um dos serviços prestados pela camada de aplicação. Os componentes básicos envolvidos na troca de mensagens através do SMTP são: Agente usuário e Caixa postal. O SMTP utiliza os  serviços da camada de transporte através do protocolo TCP para transferir mensagens. Apresenta uma estrutura organizada para a transmissão dos dados.').
 	 
 definida_por('Telnet',
-	'é um protocolo para acesso remoto utilizado para configurações de máquinas. Fornece um 
-serviço de terminal virtual. Uma vez estabelecida uma sessão de login remoto, Telnet disponibiliza
-mecanismos necessários para que os caracteres digitados na máquina local sejam passados diretamente
+	'é um protocolo para acesso remoto utilizado para configurações de máquinas. Fornece um  serviço de terminal virtual. Uma vez estabelecida uma sessão de login remoto, Telnet disponibiliza mecanismos necessários para que os caracteres digitados na máquina local sejam passados diretamente
 à máquina remota.').
 
 definida_por('FTP',
