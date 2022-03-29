@@ -49,28 +49,22 @@ definida_por('radiofrequência',
 	'é um meio não físico utilizado para transmitir informações. A este tipo de meio convencionou-se chamar de wireless e as tecnologias mais conhecidas que desse se utilizam são o telefone celular, wi-fi, wimax, satélite, infravermelho e bluetooth.').
 
 definida_por('topologias de redes',
-	'é a forma como as interfaces são conectadas umas às outras. Essa característica define o
-seu tipo, a eficiência da rede e sua velocidade.').
+	'é a forma como as interfaces são conectadas umas às outras. Essa característica define o seu tipo, a eficiência da rede e sua velocidade.').
 
 definida_por('topologia parcialmente ligada',
-	'são computadores interligados de forma intermediária, ou seja, não são todos os computadores 
-que são interligados.').
+	'são computadores interligados de forma intermediária, ou seja, não são todos os computadores  que são interligados.').
 
 definida_por('topologia em barramento',
-	'caracterizada por ter um meio de comunicação comum, ou seja, todos os computadores são conectados a esse
-meio para estabelecer comunicação entre si.').
+	'caracterizada por ter um meio de comunicação comum, ou seja, todos os computadores são conectados a esse meio para estabelecer comunicação entre si.').
 
 definida_por('topologia ponto a ponto',
 	'caracteriza por enviar os dados apenas em um sentido como, por exemplo, sentido anti-horário.').
 
 definida_por('topologia multiponto',
-	'este tipo de topologia é também conhecido como token ring. Caracteriza-se por circular
-no anel, um conjunto padrão de oito bits, chamado de token.').
+	'este tipo de topologia é também conhecido como token ring. Caracteriza-se por circular no anel, um conjunto padrão de oito bits, chamado de token.').
 
 definida_por('topologia em estrela',
-	'caracteriza-se por ter um ponto central para interligar os computadores a fim de
-estabelecer comunicações. O ponto central age como centro de controle da rede, interligando
-todas as máquinas.').
+	'caracteriza-se por ter um ponto central para interligar os computadores a fim de estabelecer comunicações. O ponto central age como centro de controle da rede, interligando todas as máquinas.').
 
 definida_por('fim',
 	'Até a próxima! Foi um prazer poder te ajudar!').
