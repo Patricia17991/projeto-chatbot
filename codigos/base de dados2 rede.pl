@@ -16,22 +16,16 @@ definida_por('gigabit ethernet',
 	'a integração de sistemas computacionais mais rápidos e a migração da fast ethernet dos backbones para a LAN criaram “gargalos” para o servidor e para as conexões comutadas. O gigabit ethernet alivia esse congestionamento, tornando-se uma tecnologia mais rápida para o  backbone.').
 	 
 definida_por('metro ethernet',
-	'é uma tecnologia que permite utilizar redes ethernet em áreas metropolitanas e 
-geograficamente distribuídas.').
+	'é uma tecnologia que permite utilizar redes ethernet em áreas metropolitanas e  geograficamente distribuídas.').
 	 
 definida_por('protocolo TCP/IP',
-	'endereço usado pelas máquinas para se comunicarem umas com as outras. O processo para 
-que uma mensagem ou informação seja enviada de uma máquina para outra passa por vários protocolos
-de comunicação e, geralmente, todos os protocolos usados pertencem à suíte TCP/IP.').
+	'endereço usado pelas máquinas para se comunicarem umas com as outras. O processo para  que uma mensagem ou informação seja enviada de uma máquina para outra passa por vários protocolos de comunicação e, geralmente, todos os protocolos usados pertencem à suíte TCP/IP.').
 	 
 definida_por('protocolos que constituem o TCP',
 	'aplicação, apresentação, sessão, transporte, redes, enlace e física.').
 	 
 definida_por('IGRP',
-	'este protocolo é proprietário da Cisco. Foi projetado com o objetivo de trazer melhorias
-para o protocolo RIP. Conforme a rede foi crescendo, o protocolo RIP passou a ficar limitado,
-de modo que o protocolo IGRP solucionou alguns problemas relacionados a rotas em redes grandes e
-heterogêneas.').
+	'este protocolo é proprietário da Cisco. Foi projetado com o objetivo de trazer melhorias para o protocolo RIP. Conforme a rede foi crescendo, o protocolo RIP passou a ficar limitado, de modo que o protocolo IGRP solucionou alguns problemas relacionados a rotas em redes grandes e heterogêneas.').
 	 
 definida_por('EIGRP',
 	'outro protocolo desenvolvido pela Cisco. É considerado um protocolo híbrido combinando
