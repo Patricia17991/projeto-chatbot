@@ -1,57 +1,40 @@
 % base de dados um 
 
 definida_por('rede de computadores',
-	'é um conjunto de dois ou mais dispositivos eletrônicos de computação, ou módulos
-processadores ou nós da rede, interligados por um sistema de comunicação digital, 
-ou link de dados, guiados por um conjunto de regras (protocolo de rede), 
-para compartilhar entre si informação,	serviços e, recursos físicos e lógicos.').
+	'é um conjunto de dois ou mais dispositivos eletrônicos de computação, ou módulos processadores ou nós da rede, interligados por um sistema de comunicação digital,  ou link de dados, guiados por um conjunto de regras (protocolo de rede),  para compartilhar entre si informação,	serviços e, recursos físicos e lógicos.').
 
 definida_por('classificação de redes',
-	'são classificadas em três categorias, WAN( World Area NetWork), LAN (Local Area NetWork)
-e MAN (Metropolitan rea NetWork).').
+	'são classificadas em três categorias, WAN( World Area NetWork), LAN (Local Area NetWork) e MAN (Metropolitan rea NetWork).').
 
 definida_por('roteador',
-	'é um dispositivo de interconexão que encaminha pacotes entre redes processando as 
-informações de roteamento, incluídas no pacote ou datagrama.').
+	'é um dispositivo de interconexão que encaminha pacotes entre redes processando as  informações de roteamento, incluídas no pacote ou datagrama.').
 
 definida_por('placa de rede',
-	'é um elemento empregado como interface entre o computador e o cabeamento da rede,
-conhecido também como adaptador.').
+	'é um elemento empregado como interface entre o computador e o cabeamento da rede, conhecido também como adaptador.').
 	 
 definida_por('modem',
-	'é um elemento utilizado para modular o sinal digital para que possa ser transmitido.
-Ou seja, transforma os sinais elétricos digitais, que saem do computador,
-em um formato adequado ao meio de transmissão.').
+	'é um elemento utilizado para modular o sinal digital para que possa ser transmitido. Ou seja, transforma os sinais elétricos digitais, que saem do computador, em um formato adequado ao meio de transmissão.').
 	 
 definida_por('repetidor',
-	'é um elemento empregado para a interligação de duas ou mais redes idênticas, 
-transformando-as em uma única rede lógica.').
+	'é um elemento empregado para a interligação de duas ou mais redes idênticas,  transformando-as em uma única rede lógica.').
 	 
 definida_por('switch',
-	'é um elemento utilizado para interligar computadores e redes a fim de concentrar o
-cabeamento e permitir a conexão de redes de tipos diferentes.').
+	'é um elemento utilizado para interligar computadores e redes a fim de concentrar o cabeamento e permitir a conexão de redes de tipos diferentes.').
 	 
 definida_por('rede LAN',
-	'são redes locais de empresas, escritórios, laboratórios de informática ou até domésticas.
-Em síntese, é restrita a uma pequena área.'). 
+	'são redes locais de empresas, escritórios, laboratórios de informática ou até domésticas. Em síntese, é restrita a uma pequena área.'). 
 	 
 definida_por('rede MAN',
-	'são redes que têm alcance metropolitano. Ou seja, uma rede que interconecta recursos 
-computacionais em uma área referente a uma metrópole.').
+	'são redes que têm alcance metropolitano. Ou seja, uma rede que interconecta recursos  computacionais em uma área referente a uma metrópole.').
 	 
 definida_por('rede WAN',
-	'são redes que interconecta recursos computacionais distantes geograficamente uns dos outros. 
-Nessas redes são colocados equipamentos que interligam cidades e até continentes.').
+	'são redes que interconecta recursos computacionais distantes geograficamente uns dos outros.  Nessas redes são colocados equipamentos que interligam cidades e até continentes.').
 	 
 definida_por('internet',
-	'é uma gigantesca rede mundial de computadores, os quais são interligados por linhas comuns de
-telefone, linhas privadas de comunicação, cabos submarinos, canais de satélite e inúmeros outros
-meios de telecomunicação.').
+	'é uma gigantesca rede mundial de computadores, os quais são interligados por linhas comuns de telefone, linhas privadas de comunicação, cabos submarinos, canais de satélite e inúmeros outros meios de telecomunicação.').
 
 definida_por('correio eletrônico',
-	'é um dos primeiros serviços disponíveis para a comunicação em rede. O correio eletrônico
-permite que usuários, enviem e recebam mensagens eletrônicas, usando um endereço eletrônico
-como referência para a localização dos destinatários da mensagem.').
+	'é um dos primeiros serviços disponíveis para a comunicação em rede. O correio eletrônico permite que usuários, enviem e recebam mensagens eletrônicas, usando um endereço eletrônico como referência para a localização dos destinatários da mensagem.').
 
 definida_por('cabo coaxial',
 	'foi o primeiro cabo a ser utilizado em redes de computadores. Atualmente, o cabo coaxial
