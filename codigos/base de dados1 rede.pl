@@ -37,23 +37,16 @@ definida_por('correio eletrônico',
 	'é um dos primeiros serviços disponíveis para a comunicação em rede. O correio eletrônico permite que usuários, enviem e recebam mensagens eletrônicas, usando um endereço eletrônico como referência para a localização dos destinatários da mensagem.').
 
 definida_por('cabo coaxial',
-	'foi o primeiro cabo a ser utilizado em redes de computadores. Atualmente, o cabo coaxial
-não é mais empregado na implementação de redes, pois não é muito flexível e muitos problemas já 
-foram detectados na utilização desse tipo de meio.').
+	'foi o primeiro cabo a ser utilizado em redes de computadores. Atualmente, o cabo coaxial não é mais empregado na implementação de redes, pois não é muito flexível e muitos problemas já  foram detectados na utilização desse tipo de meio.').
 
 definida_por('cabo de par trançado',
-	'é um cabo com pares de fios trançado e o mais usado em redes. Além da flexibilidade,
-garante uma velocidade na troca das informações compatível com as interfaces de redes.
-Geralmente, é utilizado em redes locais.').
+	'é um cabo com pares de fios trançado e o mais usado em redes. Além da flexibilidade, garante uma velocidade na troca das informações compatível com as interfaces de redes. Geralmente, é utilizado em redes locais.').
 
 definida_por('fibra óptica',
-	'são filamentos flexíveis fabricados em materiais transparentes como fibras de vidro ou
-plástico e que são utilizadas como meio de propagação da luz.').
+	'são filamentos flexíveis fabricados em materiais transparentes como fibras de vidro ou plástico e que são utilizadas como meio de propagação da luz.').
 
 definida_por('radiofrequência',
-	'é um meio não físico utilizado para transmitir informações. A este tipo de meio
-convencionou-se chamar de wireless e as tecnologias mais conhecidas que desse se utilizam são o
-telefone celular, wi-fi, wimax, satélite, infravermelho e bluetooth.').
+	'é um meio não físico utilizado para transmitir informações. A este tipo de meio convencionou-se chamar de wireless e as tecnologias mais conhecidas que desse se utilizam são o telefone celular, wi-fi, wimax, satélite, infravermelho e bluetooth.').
 
 definida_por('topologias de redes',
 	'é a forma como as interfaces são conectadas umas às outras. Essa característica define o
