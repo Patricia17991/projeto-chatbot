@@ -1,30 +1,19 @@
 % Base de dados dois
 
 definida_por('ethernet',
-	'é um conjunto de protocolos e técnicas para tornar viável a comunicação entre os 
-computadores. É usada na grande maioria nas redes de computadores LAN instaladas pelo mundo.'). 
+	'é um conjunto de protocolos e técnicas para tornar viável a comunicação entre os  computadores. É usada na grande maioria nas redes de computadores LAN instaladas pelo mundo.'). 
 
 definida_por('endereçamento ethernet e seus serviços',
-	'em um nível de abstração mais alto, pode-se dizer que a tecnologia ethernet oferece a 
-comunicação entre equipamentos de uma mesma rede física sem o uso de conexões e com serviços:
-- Unicast, ou seja, um quadro ethernet vai para um destino único. Analogamente, pode-se tomar como
-exemplo o envio de um e-mail para uma única pessoa; 
-o e-mail é direcionado;
-- Multicast, em que um quadro vai para múltiplos destinos. Analogamente, pode-se tomar como
-exemplo o envio de um e-mail para um grupo de pessoas;
-portanto, um e-mail é distribuído para um grupo de pessoas;
-- Broadcast, em que um quadro vai para todos os destinos, ou seja, o quadro é enviado para todas
-as máquinas de uma mesma rede.').
+	'em um nível de abstração mais alto, pode-se dizer que a tecnologia ethernet oferece a  comunicação entre equipamentos de uma mesma rede física sem o uso de conexões e com serviços:
+        - Unicast, ou seja, um quadro ethernet vai para um destino único. Analogamente, pode-se tomar como exemplo o envio de um e-mail para uma única pessoa;  o e-mail é direcionado;
+        - Multicast, em que um quadro vai para múltiplos destinos. Analogamente, pode-se tomar como exemplo o envio de um e-mail para um grupo de pessoas; portanto, um e-mail é distribuído para um grupo de pessoas;
+        - Broadcast, em que um quadro vai para todos os destinos, ou seja, o quadro é enviado para todas as máquinas de uma mesma rede.').
 
 definida_por('protocolo MAC',
-	'é uma forma de organizar o acesso ao meio, de modo que cada estação possa, eventualmente,
-transmitir um quadro de cada vez.').
+	'é uma forma de organizar o acesso ao meio, de modo que cada estação possa, eventualmente, transmitir um quadro de cada vez.').
 
 definida_por('gigabit ethernet',
-	'a integração de sistemas computacionais mais rápidos e a migração da fast ethernet
-dos backbones para a LAN criaram “gargalos” para o servidor e para as conexões comutadas.
-O gigabit ethernet alivia esse congestionamento, tornando-se uma tecnologia mais rápida para o 
-backbone.').
+	'a integração de sistemas computacionais mais rápidos e a migração da fast ethernet dos backbones para a LAN criaram “gargalos” para o servidor e para as conexões comutadas. O gigabit ethernet alivia esse congestionamento, tornando-se uma tecnologia mais rápida para o  backbone.').
 	 
 definida_por('metro ethernet',
 	'é uma tecnologia que permite utilizar redes ethernet em áreas metropolitanas e 
