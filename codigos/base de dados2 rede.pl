@@ -34,36 +34,22 @@ definida_por('SMTP',
 	'é um dos serviços prestados pela camada de aplicação. Os componentes básicos envolvidos na troca de mensagens através do SMTP são: Agente usuário e Caixa postal. O SMTP utiliza os  serviços da camada de transporte através do protocolo TCP para transferir mensagens. Apresenta uma estrutura organizada para a transmissão dos dados.').
 	 
 definida_por('Telnet',
-	'é um protocolo para acesso remoto utilizado para configurações de máquinas. Fornece um  serviço de terminal virtual. Uma vez estabelecida uma sessão de login remoto, Telnet disponibiliza mecanismos necessários para que os caracteres digitados na máquina local sejam passados diretamente
-à máquina remota.').
+	'é um protocolo para acesso remoto utilizado para configurações de máquinas. Fornece um  serviço de terminal virtual. Uma vez estabelecida uma sessão de login remoto, Telnet disponibiliza mecanismos necessários para que os caracteres digitados na máquina local sejam passados diretamente à máquina remota.').
 
 definida_por('FTP',
-	'é um protocolo de transferência de arquivos entre dois sistemas que utiliza duas conexões:
-uma é empregada para dar suporte ao processo de transferência de dados e a outra conexão é 
-utilizada para dar suporte aos vários processos de controle da sessão.').
+	'é um protocolo de transferência de arquivos entre dois sistemas que utiliza duas conexões: uma é empregada para dar suporte ao processo de transferência de dados e a outra conexão é  utilizada para dar suporte aos vários processos de controle da sessão.').
 
 definida_por('http',
-	'protocolo de transferência e hipertexto é o protocolo em que a world wide web 
-está baseada. É considerado um protocolo de pedido e resposta e funciona da seguinte forma:
-um programa cliente estabelece uma conexão TCP com um programa servidor HTTP.').
+	'protocolo de transferência e hipertexto é o protocolo em que a world wide web  está baseada. É considerado um protocolo de pedido e resposta e funciona da seguinte forma: um programa cliente estabelece uma conexão TCP com um programa servidor HTTP.').
 
 definida_por('camada de rede',
-	'fornecer os serviços de transferência de dados fim a fim sobre uma rede, 
-independentemente das características das sub-redes físicas. Está mais relacionada à topologia de
-rede e tem como uma de suas principais funções resolver problemas de roteamento em rede.').
+	'fornecer os serviços de transferência de dados fim a fim sobre uma rede,  independentemente das características das sub-redes físicas. Está mais relacionada à topologia de rede e tem como uma de suas principais funções resolver problemas de roteamento em rede.').
 
 definida_por('IPv4',
-	'quarta versão do Protocolo de Internet (IP). Ele é um dos principais protocolos de
-padrões baseados em métodos de interconexão de redes na Internet, e foi a primeira versão
-implementada para a produção da ARPANET , em 1983. Ele ainda roteia a maior parte do tráfego da
-Internet de hoje.').
+	'quarta versão do Protocolo de Internet (IP). Ele é um dos principais protocolos de padrões baseados em métodos de interconexão de redes na Internet, e foi a primeira versão implementada para a produção da ARPANET , em 1983. Ele ainda roteia a maior parte do tráfego da Internet de hoje.').
 
 definida_por('ICMP',
-	'é um protocolo da camada 3, usado para trocar mensagens entre equipamentos que estão
-interligados na rede. Em redes LAN, é empregado, pelos administradores de rede, para verificar se
-um determinado equipamento está devidamente conectado à rede. O ICMP é usado também pelos
-roteadores para trocar mensagens de erros para o IP de forma automática. Quando há erros de
-entrega de um datagrama, o ICMP é utilizado para relatá-los ao emissor do datagrama').
+	'é um protocolo da camada 3, usado para trocar mensagens entre equipamentos que estão interligados na rede. Em redes LAN, é empregado, pelos administradores de rede, para verificar se um determinado equipamento está devidamente conectado à rede. O ICMP é usado também pelos roteadores para trocar mensagens de erros para o IP de forma automática. Quando há erros de entrega de um datagrama, o ICMP é utilizado para relatá-los ao emissor do datagrama').
 
 definida_por('fim',
 	'Até a próxima! Foi um prazer poder te ajudar!').	
